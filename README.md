@@ -52,7 +52,7 @@ I like projects that connect technical work with real business decisions — not
 | [SHBFinance Loan Data Analysis & Customer Segmentation](https://github.com/hung0985-work/SHBFinance-Loan-Data-Analysis-and-Customer-Segmentation)                      | Analyzing loan portfolio patterns and segmenting customers by loan and repayment behavior                       | Python, Clustering, EDA                |
 | [SHBFinance Repayment Behavior & Delinquency Risk Prediction](https://github.com/hung0985-work/SHBFinance-Repayment-Behavior-Analysis-and-Delinquency-Risk-Prediction) | Studying repayment behavior, delinquency movement, and predicting roll-up risk                                  | Python, Roll Rate, Vintage, ML         |
 | [Dashboard Building](https://github.com/hung0985-work/Dashboard-Building)                                                                                              | A collection of BI dashboards across business domains such as sales, marketing, insurance, and reinsurance      | Power BI, Excel, BI Design             |
-| Vietnam F&B Market Performance Analysis | Analyzing F&B market performance, financial drivers, and post-COVID recovery to recommend strategies for different business segments | Python, Financial Analysis, Regression |
+| [Vietnam F&B Market Performance Analysis](https://github.com/hung0985-work/F-B-Market-Performance-Analysis-in-Vietnam) | Analyzing F&B market performance, financial drivers, and post-COVID recovery to recommend strategies for different business segments | Python, Financial Analysis, Regression |
 
 ---
 
