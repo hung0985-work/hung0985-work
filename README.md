@@ -52,6 +52,7 @@ I like projects that connect technical work with real business decisions — not
 | [SHBFinance Loan Data Analysis & Customer Segmentation](https://github.com/hung0985-work/SHBFinance-Loan-Data-Analysis-and-Customer-Segmentation)                      | Analyzing loan portfolio patterns and segmenting customers by loan and repayment behavior                       | Python, Clustering, EDA                |
 | [SHBFinance Repayment Behavior & Delinquency Risk Prediction](https://github.com/hung0985-work/SHBFinance-Repayment-Behavior-Analysis-and-Delinquency-Risk-Prediction) | Studying repayment behavior, delinquency movement, and predicting roll-up risk                                  | Python, Roll Rate, Vintage, ML         |
 | [Dashboard Building](https://github.com/hung0985-work/Dashboard-Building)                                                                                              | A collection of BI dashboards across business domains such as sales, marketing, insurance, and reinsurance      | Power BI, Excel, BI Design             |
+| Vietnam F&B Market Performance Analysis | Analyzing F&B market performance, financial drivers, and post-COVID recovery to recommend strategies for different business segments | Python, Financial Analysis, Regression |
 
 ---
 
@@ -73,6 +74,16 @@ Google BigQuery · Data Cleaning · Data Validation · Data Transformation · Da
 ChatGPT · Gemini · Prompt Engineering · RAG · Pinecone · n8n · API Integration
 
 ---
+
+## 🌐 Vibe Coding & Personal Products
+
+Beyond data analytics, I also enjoy turning ideas into working products through **vibe coding**, using AI-assisted development to rapidly design, build, and deploy practical web applications.
+
+| Product | What it is about |
+| --- | --- |
+| [Fightnance](https://fightnance.vercel.app/) | A privacy-focused personal finance app for tracking expenses and managing personal finances. |
+| [My Chinese Dictionary](https://my-chinese-dictionary.vercel.app/) | A self-learning platform for building Chinese vocabulary and supporting daily language practice. |
+| [Me-mories](https://me-mories.vercel.app/) | A digital journal for preserving memories, milestones, and meaningful life moments. |
 
 ## 📌 Currently Exploring
 
